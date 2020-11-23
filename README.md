@@ -11,6 +11,6 @@ We can see that by refractoring the code the performance was much faster, see be
 Refactoring this code made the performance a lot faster; however, refactoring is a time consuming process. The code yields the same results, only cutting down the run time by more than a second.
 ### Pros and Cons of Refactoring
 #### Pros
-Refactoring makes the code a lot more easy to understand. It's also a lot easier for maintanence purposes
+Refactoring makes the code a lot more easy to understand. It's also a lot easier for maintanence and debugging purposes
 #### Cons
 Refactoring is very time consuming, especially if you don't know if it will have an overwhelming effect on the code you're writing
